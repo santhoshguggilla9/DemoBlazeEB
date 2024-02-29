@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-29T22:45:40 IST" name="DemoBalze Automation Test Suite" finished-at="2024-02-29T22:46:24 IST" duration-ms="43949">
+    <groups>
+      <group name="ProductInfoPageTest.addProduct">
+        <method signature="ProductInfoPageTest.selectLappy()[pri:0, instance:com.demoblaze.testcases.ProductInfoPageTest@6f45df59]" name="selectLappy" class="com.demoblaze.testcases.ProductInfoPageTest"/>
+        <method signature="ProductInfoPageTest.selectMonitor()[pri:0, instance:com.demoblaze.testcases.ProductInfoPageTest@6f45df59]" name="selectMonitor" class="com.demoblaze.testcases.ProductInfoPageTest"/>
+        <method signature="ProductInfoPageTest.selectPhone()[pri:0, instance:com.demoblaze.testcases.ProductInfoPageTest@6f45df59]" name="selectPhone" class="com.demoblaze.testcases.ProductInfoPageTest"/>
+      </group> <!-- ProductInfoPageTest.addProduct -->
+    </groups>
+    <test started-at="2024-02-29T22:45:40 IST" name="DemoBlaze Automation" finished-at="2024-02-29T22:46:24 IST" duration-ms="43949">
+      <class name="com.demoblaze.testcases.LoginPageTest">
+        <test-method is-config="true" signature="start()[pri:0, instance:com.demoblaze.testcases.LoginPageTest@58ea606c]" started-at="2024-02-29T22:45:44 IST" name="start" finished-at="2024-02-29T22:45:44 IST" duration-ms="79" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="loginTest(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.demoblaze.testcases.LoginPageTest@58ea606c]" started-at="2024-02-29T22:45:44 IST" name="loginTest" data-provider="LoginData" finished-at="2024-02-29T22:45:49 IST" duration-ms="5636" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Vikas16]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass16]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="start()[pri:0, instance:com.demoblaze.testcases.LoginPageTest@58ea606c]" started-at="2024-02-29T22:45:49 IST" name="start" finished-at="2024-02-29T22:45:49 IST" duration-ms="44" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="loginTest(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.demoblaze.testcases.LoginPageTest@58ea606c]" started-at="2024-02-29T22:45:49 IST" name="loginTest" data-provider="LoginData" finished-at="2024-02-29T22:45:54 IST" duration-ms="4998" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chetan26]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass26]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="start()[pri:0, instance:com.demoblaze.testcases.LoginPageTest@58ea606c]" started-at="2024-02-29T22:45:54 IST" name="start" finished-at="2024-02-29T22:45:54 IST" duration-ms="46" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="loginTest(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.demoblaze.testcases.LoginPageTest@58ea606c]" started-at="2024-02-29T22:45:54 IST" name="loginTest" data-provider="LoginData" finished-at="2024-02-29T22:45:59 IST" duration-ms="4792" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Nilesh01]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass01]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Valid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- com.demoblaze.testcases.LoginPageTest -->
+      <class name="com.demoblaze.testcases.ProductInfoPageTest">
+        <test-method is-config="true" signature="set()[pri:0, instance:com.demoblaze.testcases.ProductInfoPageTest@6f45df59]" started-at="2024-02-29T22:45:59 IST" name="set" finished-at="2024-02-29T22:46:00 IST" duration-ms="393" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- set -->
+        <test-method signature="selectLappy()[pri:0, instance:com.demoblaze.testcases.ProductInfoPageTest@6f45df59]" started-at="2024-02-29T22:46:00 IST" name="selectLappy" finished-at="2024-02-29T22:46:04 IST" duration-ms="4243" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectLappy -->
+        <test-method is-config="true" signature="set()[pri:0, instance:com.demoblaze.testcases.ProductInfoPageTest@6f45df59]" started-at="2024-02-29T22:46:04 IST" name="set" finished-at="2024-02-29T22:46:04 IST" duration-ms="75" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- set -->
+        <test-method signature="selectMonitor()[pri:0, instance:com.demoblaze.testcases.ProductInfoPageTest@6f45df59]" started-at="2024-02-29T22:46:04 IST" name="selectMonitor" finished-at="2024-02-29T22:46:07 IST" duration-ms="3178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectMonitor -->
+        <test-method is-config="true" signature="set()[pri:0, instance:com.demoblaze.testcases.ProductInfoPageTest@6f45df59]" started-at="2024-02-29T22:46:07 IST" name="set" finished-at="2024-02-29T22:46:08 IST" duration-ms="691" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- set -->
+        <test-method signature="selectPhone()[pri:0, instance:com.demoblaze.testcases.ProductInfoPageTest@6f45df59]" started-at="2024-02-29T22:46:08 IST" name="selectPhone" finished-at="2024-02-29T22:46:12 IST" duration-ms="4193" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectPhone -->
+      </class> <!-- com.demoblaze.testcases.ProductInfoPageTest -->
+      <class name="com.demoblaze.testcases.CartPageTest">
+        <test-method is-config="true" signature="set()[pri:0, instance:com.demoblaze.testcases.CartPageTest@38e79ae3]" started-at="2024-02-29T22:46:12 IST" name="set" finished-at="2024-02-29T22:46:12 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- set -->
+        <test-method signature="goToCart()[pri:0, instance:com.demoblaze.testcases.CartPageTest@38e79ae3]" started-at="2024-02-29T22:46:12 IST" name="goToCart" finished-at="2024-02-29T22:46:18 IST" duration-ms="5751" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToCart -->
+        <test-method signature="validateDeleteItem()[pri:1, instance:com.demoblaze.testcases.CartPageTest@38e79ae3]" started-at="2024-02-29T22:46:18 IST" name="validateDeleteItem" finished-at="2024-02-29T22:46:23 IST" duration-ms="5128" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateDeleteItem -->
+        <test-method is-config="true" signature="set()[pri:0, instance:com.demoblaze.testcases.CartPageTest@38e79ae3]" started-at="2024-02-29T22:46:18 IST" name="set" finished-at="2024-02-29T22:46:18 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- set -->
+        <test-method is-config="true" signature="set()[pri:0, instance:com.demoblaze.testcases.CartPageTest@38e79ae3]" started-at="2024-02-29T22:46:23 IST" name="set" finished-at="2024-02-29T22:46:23 IST" duration-ms="27" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- set -->
+        <test-method signature="valiadteTotalProductPrice()[pri:2, instance:com.demoblaze.testcases.CartPageTest@38e79ae3]" started-at="2024-02-29T22:46:23 IST" name="valiadteTotalProductPrice" finished-at="2024-02-29T22:46:23 IST" duration-ms="100" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- valiadteTotalProductPrice -->
+      </class> <!-- com.demoblaze.testcases.CartPageTest -->
+      <class name="com.demoblaze.testcases.PaymentInfoPageTest">
+        <test-method signature="verifyPurchaseWithoutInfo()[pri:0, instance:com.demoblaze.testcases.PaymentInfoPageTest@63070bab]" started-at="2024-02-29T22:46:23 IST" name="verifyPurchaseWithoutInfo" finished-at="2024-02-29T22:46:24 IST" duration-ms="518" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPurchaseWithoutInfo -->
+        <test-method signature="verifyPurchaseWithInfo()[pri:1, instance:com.demoblaze.testcases.PaymentInfoPageTest@63070bab]" started-at="2024-02-29T22:46:24 IST" name="verifyPurchaseWithInfo" finished-at="2024-02-29T22:46:24 IST" duration-ms="675" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPurchaseWithInfo -->
+      </class> <!-- com.demoblaze.testcases.PaymentInfoPageTest -->
+      <class name="com.demoblaze.testcases.SignUpPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.demoblaze.testcases.SignUpPageTest@ed7f8b4]" started-at="2024-02-29T22:45:35 IST" name="setUp" finished-at="2024-02-29T22:45:40 IST" duration-ms="5516" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="set()[pri:0, instance:com.demoblaze.testcases.SignUpPageTest@ed7f8b4]" started-at="2024-02-29T22:45:41 IST" name="set" finished-at="2024-02-29T22:45:41 IST" duration-ms="285" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- set -->
+        <test-method signature="registerUser()[pri:0, instance:com.demoblaze.testcases.SignUpPageTest@ed7f8b4]" started-at="2024-02-29T22:45:41 IST" name="registerUser" finished-at="2024-02-29T22:45:42 IST" duration-ms="1264" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerUser -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.demoblaze.testcases.SignUpPageTest@ed7f8b4]" started-at="2024-02-29T22:46:25 IST" name="tearDown" finished-at="2024-02-29T22:46:26 IST" duration-ms="911" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.demoblaze.testcases.SignUpPageTest -->
+    </test> <!-- DemoBlaze Automation -->
+  </suite> <!-- DemoBalze Automation Test Suite -->
+</testng-results>
